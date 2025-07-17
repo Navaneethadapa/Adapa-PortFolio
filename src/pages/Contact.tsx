@@ -57,8 +57,8 @@ const Contact: React.FC = () => {
     {
       icon: PhoneIcon,
       title: 'Phone',
-      value: '+91 7993947982',
-      href: 'tel:+917993947982'
+      value: '+91 xxxxxx982',
+      href: 'tel:+91xxxxxx982'
     },
     {
       icon: MapPinIcon,
