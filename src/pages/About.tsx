@@ -123,7 +123,7 @@ const About: React.FC = () => {
             <div className="relative z-10">
               <motion.div className="relative overflow-hidden rounded-2xl">
                 <motion.img
-                src="https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="/Navaneeth.jpeg"
                 alt="Navaneeth Sai Adapa"
                 className="w-full max-w-md mx-auto shadow-2xl"
                 whileHover={{ scale: 1.1 }}
